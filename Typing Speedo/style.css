@@ -1,0 +1,28 @@
+.typing-speedo-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+#generated-text {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+#user-input {
+    width: 100%;
+    height: 150px;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+#submit-btn {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+#results {
+    margin-top: 20px;
+}

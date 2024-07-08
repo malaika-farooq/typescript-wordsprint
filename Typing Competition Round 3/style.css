@@ -1,0 +1,90 @@
+.typing-competition-container {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.typing-competition-container h1 {
+    color: #b30000;
+}
+
+#round-3 p {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+#round-3-form textarea {
+    width: calc(100% - 22px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+#timer {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#submit-round-3 {
+    background-color: #b30000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#submit-round-3:hover {
+    background-color: #800000;
+}
+
+#result-message {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+#certificate-button button {
+    background-color: #b30000;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#leaderboard {
+    text-align: left;
+    margin-top: 20px;
+}
+
+#leaderboard h2 {
+    color: #b30000;
+    text-align: center;
+}
+
+#leaderboard table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#leaderboard table th, #leaderboard table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+#leaderboard table th {
+    background-color: #b30000;
+    color: white;
+}
+
+#leaderboard table td {
+    background-color: #f9f9f9;
+}
