@@ -2,7 +2,11 @@
 Typesprint, the typing competition website.
 
 
-Add all these plugins in the plugin file to run these websites
+
+Website Link: https://shaheengrps.com/
+Add all these plugins in the plugin file on wordpress to run this website.
+
+
 
 #Classic Editor
 #Elementor
@@ -16,3 +20,5 @@ Add all these plugins in the plugin file to run these websites
 #Typing Speedo
 #WPForms Lite
 
+
+From Team: TYPESPRINT
